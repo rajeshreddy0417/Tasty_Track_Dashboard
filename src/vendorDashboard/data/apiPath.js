@@ -1,2 +1,5 @@
-export const API_URL="http://localhost:4000" || "https://tasty-track-backend.onrender.com"
+
+// export const API_URL="http://localhost:4000" 
+
+export const API_URL="https://tasty-track-backend.onrender.com"
 
